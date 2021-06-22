@@ -8,7 +8,7 @@ Original file is located at
 """
 
 import requests
-#import os
+
 from datetime import datetime
 
 api_key = '270bee4af338ec9e6701bf2b7d64b561'
